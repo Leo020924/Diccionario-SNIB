@@ -230,11 +230,13 @@
     <description>Nombre del estado o divisi&#xF3;n pol&#xED;tica equivalente donde se ubica la coordenada geogr&#xE1;fica registrada para el ejemplar, respecto a los mapas de divisi&#xF3;n pol&#xED;tica utilizados para la validaci&#xF3;n geogr&#xE1;fica realizada por la CONABIO.</description>
     <datatype>varchar (50)</datatype>
     <encoding>UTF-8</encoding>
-    <dataRules/>
     <dataRules>
       <rule>El dato est&#xE1; escrito en may&#xFA;sculas y sin utilizar acentos.</rule>
     </dataRules>
     <dataRules/>
+    <ejemplar>
+      <key>22222222222222222222222222222222</key>
+    </ejemplar>
   </snibTerm>
   <snibTerm>
     <fieldName>Clave del estado del mapa</fieldName>
