@@ -382,7 +382,7 @@
       <rule>El valor nulo significa que el ejemplar no tiene coordenadas geogr&#xE1;ficas; las coordenadas asociadas al ejemplar se ubican fuera del &#xE1;rea que cubre el modelo digital de elevaci&#xF3;n o, dicho modelo no tiene el dato de altitud.</rule>
     </dataRules>
     <dataRules>
-      <rule>El valor nulo significa que el ejemplar no tiene coordenadas geogr&#xE1;ficas; las coordenadas asociadas al ejemplar se ubican fuera del &#xE1;rea que cubre el modelo digital de elevaci&#xF3;n o, dicho modelo no tiene el dato de altitud.</rule>
+      <rule>ejemplo</rule>
     </dataRules>
     <campos>
       <campo>region</campo>
@@ -390,14 +390,8 @@
       <campo>longitud</campo>
     </campos>
     <dataRules>
-      <rule>ejemplo</rule>
+      <rule>El valor nulo significa que el ejemplar no tiene coordenadas geogr&#xE1;ficas; las coordenadas asociadas al ejemplar se ubican fuera del &#xE1;rea que cubre el modelo digital de elevaci&#xF3;n o, dicho modelo no tiene el dato de altitud.</rule>
     </dataRules>
-    <syntaxRules>
-      <rule>ejemplo</rule>
-    </syntaxRules>
-    <infoRules>
-      <rule>ejemplo</rule>
-    </infoRules>
     <ejemplar>
       <key>21212121212121212121212121212121</key>
     </ejemplar>
