@@ -52,13 +52,6 @@
     <dwcField>decimalLongitude</dwcField>
     <description>Longitud de la coordenada geogr&#xE1;fica del sitio de recolecta u observaci&#xF3;n del ejemplar.</description>
     <datatype>double</datatype>
-    <encoding/>
-    <dataRules>
-      <rule>El valor est&#xE1; en el intervalo de -180 a 180.</rule>
-      <rule>Cuando las coordenadas originales est&#xE1;n en grados, minutos y segundos, se realiza una conversi&#xF3;n a grados decimales; si se desconoce el valor de los segundos se asignan 30&#x2019;&#x2019; para no sesgar el dato desconocido hacia los extremos (0 - 59).</rule>
-      <rule>Cuando las coordenadas originales est&#xE1;n en un datum diferente a WGS84, se transforma a WGS84.</rule>
-      <rule>El valor vac&#xED;o significa que el dato no fue proporcionado en la base de datos original.</rule>
-    </dataRules>
     <dataRules>
       <rule>El n&#xFA;mero m&#xE1;ximo de decimales es siete.</rule>
       <rule>El dato se presenta en grados decimales.</rule>
@@ -66,6 +59,17 @@
     <dataRules>
       <rule>Para el este del meridiano de Greenwich el dato es positivo (por ejemplo, Alemania).</rule>
       <rule>Para el oeste del meridiano de Greenwich el dato es negativo (por ejemplo, M&#xE9;xico).</rule>
+    </dataRules>
+    <campos>
+      <campo>region</campo>
+      <campo>localidad</campo>
+      <campo>longitud</campo>
+    </campos>
+    <dataRules>
+      <rule>El valor est&#xE1; en el intervalo de -180 a 180.</rule>
+      <rule>Cuando las coordenadas originales est&#xE1;n en grados, minutos y segundos, se realiza una conversi&#xF3;n a grados decimales; si se desconoce el valor de los segundos se asignan 30&#x2019;&#x2019; para no sesgar el dato desconocido hacia los extremos (0 - 59).</rule>
+      <rule>Cuando las coordenadas originales est&#xE1;n en un datum diferente a WGS84, se transforma a WGS84.</rule>
+      <rule>El valor vac&#xED;o significa que el dato no fue proporcionado en la base de datos original.</rule>
     </dataRules>
   </snibTerm>
   <snibTerm>
