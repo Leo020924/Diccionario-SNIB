@@ -291,18 +291,21 @@
     <description>Nombre del municipio en el que el ejemplar fue recolectado u observado.</description>
     <datatype>varchar (80)</datatype>
     <encoding>UTF-8</encoding>
-    <dataRules>
-      <rule>El dato est&#xE1; escrito en may&#xFA;sculas y sin utilizar acentos.</rule>
-    </dataRules>
     <dataRules/>
+    <dataRules>
+      <rule>El valor vac&#xED;o significa que el dato que no fue proporcionado en la base de datos original.</rule>
+    </dataRules>
     <campos>
       <campo>region</campo>
       <campo>localidad</campo>
       <campo>longitud</campo>
     </campos>
     <dataRules>
-      <rule>El valor vac&#xED;o significa que el dato que no fue proporcionado en la base de datos original.</rule>
+      <rule>El dato est&#xE1; escrito en may&#xFA;sculas y sin utilizar acentos.</rule>
     </dataRules>
+    <ejemplar>
+      <key>21212121212121212112121212221211</key>
+    </ejemplar>
   </snibTerm>
   <snibTerm>
     <fieldName>Municipio del mapa</fieldName>
