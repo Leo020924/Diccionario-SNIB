@@ -1199,10 +1199,17 @@
     <dataRules/>
     <syntaxRules>
       <rule>Ejemplo</rule>
+      <rule>Ejemplo 2</rule>
     </syntaxRules>
     <infoRules>
       <rule>Ejemplo</rule>
+      <rule>Ejemplo 2</rule>
     </infoRules>
+    <ejemplar>
+      <key>000007529d7df746625f62378ef2e1df</key>
+      <key>000006dcee71030d3081a038736eff50</key>
+      <key>0000073f4a82147ec8f81605d350ed4f</key>
+    </ejemplar>
   </snibTerm>
   <snibTerm>
     <fieldName>Observaciones del uso de la informaci&#xF3;n</fieldName>
