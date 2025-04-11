@@ -399,8 +399,7 @@
     <description>Altitud donde se ubica la coordenada geogr&#xE1;fica, es obtenida del modelo de elevaci&#xF3;n ASTER GDEM2. Tipo de dato: smallint (6)</description>
     <datatype>Descripci&#xF3;n: Altitud donde se ubica la coordenada geogr&#xE1;fica, es obtenida del modelo de elevaci&#xF3;n ASTER GDEM2. Tipo de dato: smallint (6)</datatype>
     <dataRules>
-      <rule>ejemplo</rule>
-      <rule>hola</rule>
+      <rule>El valor nulo significa que el ejemplar no tiene coordenadas geogr&#xE1;ficas; las coordenadas asociadas al ejemplar se ubican fuera del &#xE1;rea que cubre el modelo digital de elevaci&#xF3;n o, dicho modelo no tiene el dato de altitud.</rule>
     </dataRules>
     <dataRules>
       <rule>El valor nulo significa que el ejemplar no tiene coordenadas geogr&#xE1;ficas; las coordenadas asociadas al ejemplar se ubican fuera del &#xE1;rea que cubre el modelo digital de elevaci&#xF3;n o, dicho modelo no tiene el dato de altitud.</rule>
@@ -411,13 +410,16 @@
       <campo>longitud</campo>
     </campos>
     <dataRules>
-      <rule>El valor nulo significa que el ejemplar no tiene coordenadas geogr&#xE1;ficas; las coordenadas asociadas al ejemplar se ubican fuera del &#xE1;rea que cubre el modelo digital de elevaci&#xF3;n o, dicho modelo no tiene el dato de altitud.</rule>
+      <rule>ejemplo</rule>
+      <rule>hola</rule>
     </dataRules>
     <syntaxRules>
       <rule>sintaxis</rule>
+      <rule>Hola</rule>
     </syntaxRules>
     <infoRules>
       <rule>regla info</rule>
+      <rule>Hola</rule>
     </infoRules>
     <ejemplar>
       <key>000000ac63c0559238194a1f80546a92</key>
