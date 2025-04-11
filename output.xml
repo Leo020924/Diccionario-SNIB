@@ -275,14 +275,15 @@
     <datatype>varchar (10)</datatype>
     <encoding>UTF-8</encoding>
     <dataRules>
-      <rule>El valor s&#xF3;lo se presenta para los ejemplares ubicados en la franja del mar territorial y zona contigua.</rule>
-      <rule>La clave del estado corresponde con el estado asignado en el campo mt24nombreestadomapa.</rule>
-    </dataRules>
-    <dataRules>
       <rule>La clave se compone de dos caracteres num&#xE9;ricos para M&#xE9;xico.</rule>
       <rule>La clave se compone de cinco caracteres num&#xE9;ricos para otros pa&#xED;ses: los tres primeros corresponden a la clave ISO 3166-1 num&#xE9;rico del pa&#xED;s, los siguientes dos al estado.</rule>
     </dataRules>
     <dataRules/>
+    <dataRules>
+      <rule>El valor s&#xF3;lo se presenta para los ejemplares ubicados en la franja del mar territorial y zona contigua.</rule>
+      <rule>La clave del estado corresponde con el estado asignado en el campo mt24nombreestadomapa.</rule>
+      <rule>Hola</rule>
+    </dataRules>
   </snibTerm>
   <snibTerm>
     <fieldName>Municipio</fieldName>
