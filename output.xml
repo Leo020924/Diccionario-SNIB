@@ -614,15 +614,12 @@
     <description>Nombre del reino en el que se ubica el ejemplar.</description>
     <datatype>varchar (50)</datatype>
     <encoding>UTF-8</encoding>
-    <dataRules/>
     <dataRules>
       <rule>Ejemplo</rule>
     </dataRules>
-    <campos>
-      <campo>region</campo>
-      <campo>localidad</campo>
-      <campo>longitud</campo>
-    </campos>
+    <dataRules>
+      <rule>Ejemplo</rule>
+    </dataRules>
     <dataRules>
       <rule>El dato se escribe con la primera letra en may&#xFA;scula.</rule>
       <rule>Ejemplo</rule>
@@ -638,6 +635,11 @@
       <key>000006dcee71030d3081a038736eff50</key>
       <key>0000073f4a82147ec8f81605d350ed4f</key>
     </ejemplar>
+    <campos>
+      <campo>region</campo>
+      <campo>localidad</campo>
+      <campo>longitud</campo>
+    </campos>
   </snibTerm>
   <snibTerm>
     <fieldName>Phylum o divisi&#xF3;n</fieldName>
