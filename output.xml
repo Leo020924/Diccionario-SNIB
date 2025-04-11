@@ -396,19 +396,14 @@
     <fieldName>Altitud para la coordenada geogr&#xE1;fica</fieldName>
     <fieldid>altitudmapa</fieldid>
     <dwcField>minimunElevationInMeters</dwcField>
-    <description>Altitud donde se ubica la coordenada geogr&#xE1;fica, es obtenida del modelo de elevaci&#xF3;n ASTER GDEM2. Tipo de dato: smallint (6)</description>
-    <datatype>Descripci&#xF3;n: Altitud donde se ubica la coordenada geogr&#xE1;fica, es obtenida del modelo de elevaci&#xF3;n ASTER GDEM2. Tipo de dato: smallint (6)</datatype>
+    <description>Altitud donde se ubica la coordenada geogr&#xE1;fica, es obtenida del modelo de elevaci&#xF3;n ASTER GDEM2. </description>
+    <datatype>smallint (6)</datatype>
     <dataRules>
       <rule>El valor nulo significa que el ejemplar no tiene coordenadas geogr&#xE1;ficas; las coordenadas asociadas al ejemplar se ubican fuera del &#xE1;rea que cubre el modelo digital de elevaci&#xF3;n o, dicho modelo no tiene el dato de altitud.</rule>
     </dataRules>
     <dataRules>
       <rule>El valor nulo significa que el ejemplar no tiene coordenadas geogr&#xE1;ficas; las coordenadas asociadas al ejemplar se ubican fuera del &#xE1;rea que cubre el modelo digital de elevaci&#xF3;n o, dicho modelo no tiene el dato de altitud.</rule>
     </dataRules>
-    <campos>
-      <campo>region</campo>
-      <campo>localidad</campo>
-      <campo>longitud</campo>
-    </campos>
     <dataRules>
       <rule>ejemplo</rule>
       <rule>hola</rule>
@@ -424,8 +419,13 @@
     <ejemplar>
       <key>000000ac63c0559238194a1f80546a92</key>
       <key>000000fce20896c0d5c13b5475d24717</key>
-      <key>000006045474e48a58459ddb393b78e3</key>
+      <key>0000076053e5f12ee049a375bd751326</key>
     </ejemplar>
+    <campos>
+      <campo>region</campo>
+      <campo>localidad</campo>
+      <campo>longitud</campo>
+    </campos>
   </snibTerm>
   <snibTerm>
     <fieldName>Uso de suelo y vegetaci&#xF3;n serie I del INEGI</fieldName>
