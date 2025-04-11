@@ -1193,9 +1193,16 @@
     <dataRules>
       <rule>El dominio de los valores permitidos est&#xE1; dado por:</rule>
       <rule>El valor vac&#xED;o significa que la especie no tiene clasificaci&#xF3;n de su residencia o que no se trata de un ave.</rule>
+      <rule>Ejemplo</rule>
     </dataRules>
     <dataRules/>
     <dataRules/>
+    <syntaxRules>
+      <rule>Ejemplo</rule>
+    </syntaxRules>
+    <infoRules>
+      <rule>Ejemplo</rule>
+    </infoRules>
   </snibTerm>
   <snibTerm>
     <fieldName>Observaciones del uso de la informaci&#xF3;n</fieldName>
