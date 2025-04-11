@@ -422,9 +422,8 @@
       <key>0000076053e5f12ee049a375bd751326</key>
     </ejemplar>
     <campos>
-      <campo>region</campo>
-      <campo>localidad</campo>
-      <campo>longitud</campo>
+      <campo>estadomapa</campo>
+      <campo>mt24claveestadomapa</campo>
     </campos>
   </snibTerm>
   <snibTerm>
