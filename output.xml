@@ -614,16 +614,17 @@
     <description>Nombre del reino en el que se ubica el ejemplar.</description>
     <datatype>varchar (50)</datatype>
     <encoding>UTF-8</encoding>
-    <dataRules>
-      <rule>El dato se escribe con la primera letra en may&#xFA;scula.</rule>
-    </dataRules>
     <dataRules/>
+    <dataRules>
+      <rule>Ejemplo</rule>
+    </dataRules>
     <campos>
       <campo>region</campo>
       <campo>localidad</campo>
       <campo>longitud</campo>
     </campos>
     <dataRules>
+      <rule>El dato se escribe con la primera letra en may&#xFA;scula.</rule>
       <rule>Ejemplo</rule>
     </dataRules>
     <syntaxRules>
