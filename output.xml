@@ -1210,6 +1210,13 @@
       <key>000006dcee71030d3081a038736eff50</key>
       <key>0000073f4a82147ec8f81605d350ed4f</key>
     </ejemplar>
+    <campos>
+      <campo>region</campo>
+      <campo>localidad</campo>
+      <campo>longitud</campo>
+      <campo>latitud</campo>
+      <campo>datum</campo>
+    </campos>
   </snibTerm>
   <snibTerm>
     <fieldName>Observaciones del uso de la informaci&#xF3;n</fieldName>
