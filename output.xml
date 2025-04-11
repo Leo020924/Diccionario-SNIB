@@ -427,8 +427,6 @@
     <campos>
       <campo>region</campo>
       <campo>claveestadomapa</campo>
-      <campo>estadomapa</campo>
-      <campo>mt24claveestadomapa</campo>
     </campos>
   </snibTerm>
   <snibTerm>
