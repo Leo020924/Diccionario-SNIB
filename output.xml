@@ -21,9 +21,6 @@
     <datatype>varchar (150)</datatype>
     <encoding>UTF-8</encoding>
     <dataRules>
-      <rule>El valor NO DISPONIBLE significa que el dato se desconoce.</rule>
-    </dataRules>
-    <dataRules>
       <rule>Los nombres de los pa&#xED;ses est&#xE1;n escritos en espa&#xF1;ol</rule>
       <rule>Los datos est&#xE1;n escritos en may&#xFA;sculas y sin utilizar acentos.</rule>
       <rule>Este campo se conforma con la concatenaci&#xF3;n de los valores de los campos pa&#xED;s, estado y municipio.</rule>
@@ -32,6 +29,10 @@
       <rule>En el caso de que el sitio de recolecta u observaci&#xF3;n del ejemplar se ubique en m&#xE1;s de una regi&#xF3;n, los valores se separan con una coma seguida de un espacio.</rule>
     </dataRules>
     <dataRules/>
+    <dataRules>
+      <rule>El valor NO DISPONIBLE significa que el dato se desconoce.</rule>
+      <rule>ejemplo</rule>
+    </dataRules>
   </snibTerm>
   <snibTerm>
     <fieldName>Localidad de recolecta u observaci&#xF3;n registrada para el ejemplar</fieldName>
