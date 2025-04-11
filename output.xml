@@ -887,7 +887,9 @@
     <encoding>UTF-8</encoding>
     <dataRules/>
     <dataRules/>
-    <dataRules/>
+    <dataRules>
+      <rule>nueva regla</rule>
+    </dataRules>
   </snibTerm>
   <snibTerm>
     <fieldName>Referencia taxon&#xF3;mica del nombre v&#xE1;lido</fieldName>
