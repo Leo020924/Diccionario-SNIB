@@ -428,10 +428,12 @@
     <datatype>varchar (100)</datatype>
     <encoding>UTF-8</encoding>
     <dataRules/>
-    <dataRules/>
     <dataRules>
       <rule>El dominio de los valores permitidos est&#xE1; dado por los tipos de vegetaci&#xF3;n y uso del suelo, seg&#xFA;n el mapa uso del suelo y vegetaci&#xF3;n serie I del INE-INEGI.</rule>
       <rule>El valor vac&#xED;o significa que el ejemplar tiene coordenadas ubicadas fuera del &#xE1;rea representada por el mapa o no se pudo asignar un dato por no tener coordenadas geogr&#xE1;ficas.</rule>
+      <rule>nueva</rule>
+    </dataRules>
+    <dataRules>
       <rule>nueva</rule>
     </dataRules>
   </snibTerm>
