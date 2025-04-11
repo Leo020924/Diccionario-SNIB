@@ -425,8 +425,8 @@
       <key>00000542ffe016e66a6defb8977d1e32</key>
     </ejemplar>
     <campos>
-      <campo>region</campo>
-      <campo>claveestadomapa</campo>
+      <campo>localidad</campo>
+      <campo>longitud</campo>
     </campos>
   </snibTerm>
   <snibTerm>
