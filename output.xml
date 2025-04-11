@@ -252,6 +252,18 @@
       <rule>La clave se compone de cinco caracteres num&#xE9;ricos para otros pa&#xED;ses: las tres primeras corresponden a la clave ISO 3166-1 num&#xE9;rico del pa&#xED;s, las siguientes dos al estado.</rule>
     </dataRules>
     <dataRules/>
+    <campos>
+      <campo>region</campo>
+      <campo>incertidumbreXY</campo>
+    </campos>
+    <syntaxRules>
+      <rule>nueva</rule>
+    </syntaxRules>
+    <ejemplar>
+      <key>000000ac63c0559238194a1f80546a92</key>
+      <key>000000fce20896c0d5c13b5475d24717</key>
+      <key>0000010278ed24a49835a2272d40ff11</key>
+    </ejemplar>
   </snibTerm>
   <snibTerm>
     <fieldName>Estado de referencia para sitios que se ubican en el mar</fieldName>
