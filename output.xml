@@ -466,7 +466,9 @@
       <campo>longitud</campo>
       <campo>latitud</campo>
       <campo>datum</campo>
+      <campo>estadomapa</campo>
       <campo>altitudmapa</campo>
+      <campo>usvserieI</campo>
     </campos>
   </snibTerm>
   <snibTerm>
