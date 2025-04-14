@@ -413,8 +413,6 @@
     <datatype>smallint (60)</datatype>
     <dataRules>
       <rule>El valor nulo significa que el ejemplar no tiene coordenadas geogr&#xE1;ficas; las coordenadas asociadas al ejemplar se ubican fuera del &#xE1;rea que cubre el modelo digital de elevaci&#xF3;n o, dicho modelo no tiene el dato de altitud.</rule>
-      <rule>nueva</rule>
-      <rule>regla2</rule>
     </dataRules>
     <dataRules>
       <rule>El valor nulo significa que el ejemplar no tiene coordenadas geogr&#xE1;ficas; las coordenadas asociadas al ejemplar se ubican fuera del &#xE1;rea que cubre el modelo digital de elevaci&#xF3;n o, dicho modelo no tiene el dato de altitud.</rule>
@@ -423,21 +421,14 @@
       <rule>ejemplo</rule>
       <rule>hola</rule>
     </dataRules>
-    <syntaxRules>
-      <rule>sintaxis</rule>
-    </syntaxRules>
-    <infoRules>
-      <rule>regla info</rule>
-    </infoRules>
     <ejemplar>
       <key>000000ac63c0559238194a1f80546a92</key>
       <key>0000026dee8f30ceccb37b26ce4c0f8d</key>
       <key>000004f34d007e5c2e396a153b264aaf</key>
     </ejemplar>
     <campos>
+      <campo>region</campo>
       <campo>localidad</campo>
-      <campo>datum</campo>
-      <campo>mt24nombremunicipiomapa</campo>
     </campos>
   </snibTerm>
   <snibTerm>
