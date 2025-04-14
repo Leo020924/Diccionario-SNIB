@@ -360,6 +360,9 @@
       <rule>La clave se compone de nueve caracteres para pa&#xED;ses de Centroam&#xE9;rica, Caribe, Estados Unidos de Am&#xE9;rica y Colombia. Los tres primeros corresponden a la clave ISO 3166-1 num&#xE9;rico del pa&#xED;s, los siguientes dos al estado y los que siguen al municipio o divisi&#xF3;n pol&#xED;tica equivalente.</rule>
     </dataRules>
     <dataRules/>
+    <campos>
+      <campo>localidad</campo>
+    </campos>
   </snibTerm>
   <snibTerm>
     <fieldName>Municipio de referencia para sitios que se ubican en el mar</fieldName>
