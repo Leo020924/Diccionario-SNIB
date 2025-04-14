@@ -222,16 +222,17 @@
       <rule>El campo puede contener valores que no corresponden a un estado o divisi&#xF3;n pol&#xED;tica equivalente.</rule>
     </dataRules>
     <dataRules/>
-    <campos>
-      <campo>localidad</campo>
-      <campo>longitud</campo>
-      <campo>datum</campo>
-    </campos>
     <ejemplar>
       <key>00000542ffe016e66a6defb8977d1e32</key>
       <key>000004f34d007e5c2e396a153b264aaf</key>
       <key>000003bed399a8385e59baf7c371267f</key>
     </ejemplar>
+    <campos>
+      <campo>region</campo>
+      <campo>localidad</campo>
+      <campo>longitud</campo>
+      <campo>datum</campo>
+    </campos>
   </snibTerm>
   <snibTerm>
     <fieldName>Estado del mapa</fieldName>
