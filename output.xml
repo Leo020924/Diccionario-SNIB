@@ -435,6 +435,7 @@
     <campos>
       <campo>region</campo>
       <campo>localidad</campo>
+      <campo>altitudmapa</campo>
     </campos>
   </snibTerm>
   <snibTerm>
