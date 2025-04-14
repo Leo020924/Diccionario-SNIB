@@ -1210,6 +1210,15 @@
     </dataRules>
     <dataRules/>
     <dataRules/>
+    <campos>
+      <campo>localidad</campo>
+      <campo>longitud</campo>
+    </campos>
+    <ejemplar>
+      <key>000000ac63c0559238194a1f80546a92</key>
+      <key>000000fce20896c0d5c13b5475d24717</key>
+      <key>0000010278ed24a49835a2272d40ff11</key>
+    </ejemplar>
   </snibTerm>
   <snibTerm>
     <fieldName>Residencia de aves</fieldName>
