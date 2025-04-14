@@ -437,6 +437,12 @@
       <campo>localidad</campo>
       <campo>altitudmapa</campo>
     </campos>
+    <syntaxRules>
+      <rule>Ejemplo</rule>
+    </syntaxRules>
+    <infoRules>
+      <rule>Ejemplo</rule>
+    </infoRules>
   </snibTerm>
   <snibTerm>
     <fieldName>Uso de suelo y vegetaci&#xF3;n serie I del INEGI</fieldName>
