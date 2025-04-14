@@ -407,7 +407,6 @@
     <dwcField>coordinateUncertaintyInMeters</dwcField>
     <description>Valor de incertidumbre de las coordenadas geogr&#xE1;ficas.</description>
     <datatype>int (11)</datatype>
-    <encoding/>
     <dataRules>
       <rule>El valor nulo significa que no se tiene el dato de la incertidumbre o no tiene coordenadas geogr&#xE1;ficas.</rule>
       <rule>El valor proviene de:</rule>
@@ -417,6 +416,9 @@
     </dataRules>
     <dataRules/>
     <dataRules/>
+    <campos>
+      <campo>localidad</campo>
+    </campos>
   </snibTerm>
   <snibTerm>
     <fieldName>Altitud para la coordenada geogr&#xE1;fica</fieldName>
