@@ -463,6 +463,9 @@
     <campos>
       <campo>region</campo>
       <campo>localidad</campo>
+      <campo>longitud</campo>
+      <campo>latitud</campo>
+      <campo>datum</campo>
       <campo>altitudmapa</campo>
     </campos>
   </snibTerm>
