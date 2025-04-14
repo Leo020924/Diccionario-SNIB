@@ -222,6 +222,10 @@
       <rule>El campo puede contener valores que no corresponden a un estado o divisi&#xF3;n pol&#xED;tica equivalente.</rule>
     </dataRules>
     <dataRules/>
+    <campos>
+      <campo>localidad</campo>
+      <campo>longitud</campo>
+    </campos>
   </snibTerm>
   <snibTerm>
     <fieldName>Estado del mapa</fieldName>
