@@ -297,6 +297,9 @@
       <rule>La clave del estado corresponde con el estado asignado en el campo mt24nombreestadomapa.</rule>
       <rule>Hola</rule>
     </dataRules>
+    <campos>
+      <campo>region</campo>
+    </campos>
   </snibTerm>
   <snibTerm>
     <fieldName>Municipio</fieldName>
