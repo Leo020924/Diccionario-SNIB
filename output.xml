@@ -410,7 +410,7 @@
     <fieldid>altitudmapa</fieldid>
     <dwcField>minimunElevationInMeters</dwcField>
     <description>Altitud donde se ubica la coordenada geogr&#xE1;fica, es obtenida del modelo de elevaci&#xF3;n ASTER GDEM2. </description>
-    <datatype>smallint (6)</datatype>
+    <datatype>smallint (60)</datatype>
     <dataRules>
       <rule>El valor nulo significa que el ejemplar no tiene coordenadas geogr&#xE1;ficas; las coordenadas asociadas al ejemplar se ubican fuera del &#xE1;rea que cubre el modelo digital de elevaci&#xF3;n o, dicho modelo no tiene el dato de altitud.</rule>
       <rule>nueva</rule>
@@ -432,12 +432,12 @@
     <ejemplar>
       <key>000000ac63c0559238194a1f80546a92</key>
       <key>0000026dee8f30ceccb37b26ce4c0f8d</key>
-      <key>00000542ffe016e66a6defb8977d1e32</key>
+      <key>000004f34d007e5c2e396a153b264aaf</key>
     </ejemplar>
     <campos>
       <campo>localidad</campo>
+      <campo>datum</campo>
       <campo>mt24nombremunicipiomapa</campo>
-      <campo>incertidumbreXY</campo>
     </campos>
   </snibTerm>
   <snibTerm>
