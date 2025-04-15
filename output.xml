@@ -436,9 +436,10 @@
     <fieldid>altitudmapa</fieldid>
     <dwcField>minimunElevationInMeters</dwcField>
     <description>Altitud donde se ubica la coordenada geogr&#xE1;fica, es obtenida del modelo de elevaci&#xF3;n ASTER GDEM2. </description>
-    <datatype>smallint (60)</datatype>
+    <datatype>smallint (600)</datatype>
     <dataRules>
       <rule>El valor nulo significa que el ejemplar no tiene coordenadas geogr&#xE1;ficas; las coordenadas asociadas al ejemplar se ubican fuera del &#xE1;rea que cubre el modelo digital de elevaci&#xF3;n o, dicho modelo no tiene el dato de altitud.</rule>
+      <rule>Ejemplo</rule>
     </dataRules>
     <dataRules>
       <rule>El valor nulo significa que el ejemplar no tiene coordenadas geogr&#xE1;ficas; las coordenadas asociadas al ejemplar se ubican fuera del &#xE1;rea que cubre el modelo digital de elevaci&#xF3;n o, dicho modelo no tiene el dato de altitud.</rule>
@@ -456,8 +457,14 @@
       <rule>Ejemploooo 3</rule>
     </infoRules>
     <campos>
+      <campo>region</campo>
+      <campo>localidad</campo>
+      <campo>longitud</campo>
       <campo>altitudmapa</campo>
     </campos>
+    <syntaxRules>
+      <rule>Ejemplo</rule>
+    </syntaxRules>
   </snibTerm>
   <snibTerm>
     <fieldName>Uso de suelo y vegetaci&#xF3;n serie I del INEGI</fieldName>
