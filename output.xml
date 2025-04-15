@@ -452,23 +452,11 @@
       <key>0000026dee8f30ceccb37b26ce4c0f8d</key>
       <key>000004f34d007e5c2e396a153b264aaf</key>
     </ejemplar>
-    <syntaxRules>
-      <rule>Ejemploooo 3</rule>
-      <rule>Ejemplo 233</rule>
-    </syntaxRules>
     <infoRules>
       <rule>Ejemploooo 3</rule>
-      <rule>Ejemplo 233</rule>
     </infoRules>
     <campos>
-      <campo>region</campo>
-      <campo>localidad</campo>
-      <campo>longitud</campo>
-      <campo>latitud</campo>
-      <campo>datum</campo>
-      <campo>estadomapa</campo>
       <campo>altitudmapa</campo>
-      <campo>usvserieI</campo>
     </campos>
   </snibTerm>
   <snibTerm>
