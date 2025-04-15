@@ -1069,6 +1069,14 @@
       <rule>Cuando el tax&#xF3;n tiene m&#xE1;s de un nombre com&#xFA;n, se separa con &#x201C;, &#x201D; seguido de un espacio y posteriormente otro nombre com&#xFA;n.</rule>
     </dataRules>
     <dataRules/>
+    <campos>
+      <campo>nombrecomun</campo>
+    </campos>
+    <ejemplar>
+      <key>1e681ab0f796b63c5dd5f0f9856b5d9f</key>
+      <key>8497516b86a7074edb8e234d28a46d50</key>
+      <key>f8cfa1f1ec0f68277bca7d89b3f8be5a</key>
+    </ejemplar>
   </snibTerm>
   <snibTerm>
     <fieldName>Identificador del Nombre</fieldName>
