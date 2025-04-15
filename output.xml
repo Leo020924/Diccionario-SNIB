@@ -1197,6 +1197,21 @@
     </dataRules>
     <dataRules/>
     <dataRules/>
+    <campos>
+      <campo>region</campo>
+      <campo>localidad</campo>
+    </campos>
+    <syntaxRules>
+      <rule>Ejemplo</rule>
+    </syntaxRules>
+    <infoRules>
+      <rule>Ejemplo</rule>
+    </infoRules>
+    <ejemplar>
+      <key>000006dcee71030d3081a038736eff50</key>
+      <key>00000542ffe016e66a6defb8977d1e32</key>
+      <key>000005c209a1552b39303a3a02cfc6cb</key>
+    </ejemplar>
   </snibTerm>
   <snibTerm>
     <fieldName>IUCN</fieldName>
