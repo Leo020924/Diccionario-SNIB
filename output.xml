@@ -460,9 +460,6 @@
       <rule>Ejemplo</rule>
     </syntaxRules>
     <campos>
-      <campo>region</campo>
-      <campo>localidad</campo>
-      <campo>longitud</campo>
       <campo>altitudmapa</campo>
     </campos>
   </snibTerm>
