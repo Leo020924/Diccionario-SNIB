@@ -1067,11 +1067,13 @@
     </dataRules>
     <dataRules/>
     <ejemplar>
-      <key>000004fb32632347365e93c610761fet</key>
+      <key>0000010278ed24a49835a2272d40ff11</key>
       <key>000005c209a1552b39303a3a02cfc6cb</key>
       <key>000006dcee71030d3081a038736eff50</key>
+      <key>00000103afb44e8217c0021acab57d9d</key>
     </ejemplar>
     <campos>
+      <campo>datum</campo>
       <campo>nombrecomun</campo>
     </campos>
   </snibTerm>
