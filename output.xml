@@ -233,6 +233,11 @@
       <campo>longitud</campo>
       <campo>datum</campo>
     </campos>
+    <syntaxRules>
+      <rule>El valor vac&#xED;o significa que el dato no fue proporcionado en la base de datos original.</rule>
+      <rule>El dato est&#xE1; escrito en may&#xFA;sculas y sin utilizar</rule>
+      <rule>El campo puede contener valores que no corresponden a un estado o divisi&#xF3;n pol&#xED;tica equivalente.</rule>
+    </syntaxRules>
   </snibTerm>
   <snibTerm>
     <fieldName>Estado del mapa</fieldName>
