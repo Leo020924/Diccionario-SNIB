@@ -123,7 +123,9 @@
     <datatype>varchar (100)</datatype>
     <encoding>UTF-8</encoding>
     <dataRules>
-      <rule>El valor V&#xE1;lido o V&#xE1;lido con tolerancia o V&#xE1;lido ubicado en significa que el ambiente del tax&#xF3;n coincidi&#xF3; con el de la ubicaci&#xF3;n de la coordenada del ejemplar, con base en los siguientes criterios:</rule>
+      <rule>El valor V&#xE1;lido o V&#xE1;lido con tolerancia o V&#xE1;lido ubicado en significa que el ambiente del tax&#xF3;n coincidi&#xF3; con el de la ubicaci&#xF3;n de la coordenada del ejemplar, con base en los siguientes criterios:&#xD;
+Ambiente marino&#xD;
+Ambiente</rule>
       <rule>Ambiente marino. Las coordenadas son v&#xE1;lidas cuando se ubican en el mar, arrecifes, elementos insulares costeros y marinos, cuerpos de agua costeros y zona continental costera de 2 km. En islas se considera un buffer de 2 km, excepto para aves.</rule>
       <rule>Ambiente dulceacu&#xED;cola y marino; dulceacu&#xED;cola, marino y salobre; dulceacu&#xED;cola, marino, salobre y terrestre; dulceacu&#xED;cola, marino y terrestre; marino y salobre; marino, salobre y terrestre; marino y terrestre. Las coordenadas son v&#xE1;lidas cuando se ubican en continente o en mar.</rule>
       <rule>Ambiente dulceacu&#xED;cola; dulceacu&#xED;cola y salobre; dulceacu&#xED;cola, salobre y terrestre; dulceacu&#xED;cola y terrestre; salobre; salobre y terrestre; terrestre. Las coordenadas son v&#xE1;lidas al ubicarse en continente, elementos insulares marinos y en mar entre los 2 km de la l&#xED;nea de costa continental e insular.</rule>
@@ -135,16 +137,16 @@
     </dataRules>
     <dataRules/>
     <dataRules/>
-    <campos>
-      <campo>ambiente</campo>
-      <campo>validacionambiente</campo>
-      <campo>reino</campo>
-    </campos>
     <ejemplar>
       <key>0003bc5b3094ed00bd4721639d868069</key>
       <key>0098fbb360f4821f3281f753b7a6d753</key>
       <key>010e73e9be752c81c2a252eebddc4f29</key>
     </ejemplar>
+    <campos>
+      <campo>ambiente</campo>
+      <campo>validacionambiente</campo>
+      <campo>reino</campo>
+    </campos>
   </snibTerm>
   <snibTerm>
     <fieldName>Validaci&#xF3;n de la ubicaci&#xF3;n geogr&#xE1;fica del ejemplar</fieldName>
