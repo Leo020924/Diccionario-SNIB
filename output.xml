@@ -135,6 +135,16 @@
     </dataRules>
     <dataRules/>
     <dataRules/>
+    <campos>
+      <campo>ambiente</campo>
+      <campo>validacionambiente</campo>
+      <campo>reino</campo>
+    </campos>
+    <ejemplar>
+      <key>0003bc5b3094ed00bd4721639d868069</key>
+      <key>0098fbb360f4821f3281f753b7a6d753</key>
+      <key>010e73e9be752c81c2a252eebddc4f29</key>
+    </ejemplar>
   </snibTerm>
   <snibTerm>
     <fieldName>Validaci&#xF3;n de la ubicaci&#xF3;n geogr&#xE1;fica del ejemplar</fieldName>
