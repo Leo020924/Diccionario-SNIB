@@ -449,12 +449,12 @@
       <rule>hola</rule>
     </dataRules>
     <ejemplar>
-      <key>0000026dee8f30ceccb37b26ce4c0f8d</key>
       <key>000004f34d007e5c2e396a153b264aaf</key>
       <key>000003bf8e3675a955e800a2c1a3cc5f</key>
+      <key>aa2cc6d24d9c9544b875175fa0345a4a</key>
     </ejemplar>
     <infoRules>
-      <rule>Ejemploooo 3</rule>
+      <rule>Ejemplo</rule>
     </infoRules>
     <syntaxRules>
       <rule>Ejemplo</rule>
