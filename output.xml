@@ -123,12 +123,8 @@
     <datatype>varchar (100)</datatype>
     <encoding>UTF-8</encoding>
     <dataRules>
-      <rule>El valor V&#xE1;lido o V&#xE1;lido con tolerancia o V&#xE1;lido ubicado en significa que el ambiente del tax&#xF3;n coincidi&#xF3; con el de la ubicaci&#xF3;n de la coordenada del ejemplar, con base en los siguientes criterios:&#xD;
-Ambiente marino&#xD;
-&#xD;
-&#xD;
-&#xD;
-&#xD;
+      <rule>1. El valor V&#xE1;lido o V&#xE1;lido con tolerancia o V&#xE1;lido ubicado en significa que el ambiente del tax&#xF3;n coincidi&#xF3; con el de la ubicaci&#xF3;n de la coordenada del ejemplar, con base en los siguientes criterios:&#xD;
+Ambiente marino  &#xD;
 Ambiente</rule>
       <rule>Ambiente marino. Las coordenadas son v&#xE1;lidas cuando se ubican en el mar, arrecifes, elementos insulares costeros y marinos, cuerpos de agua costeros y zona continental costera de 2 km. En islas se considera un buffer de 2 km, excepto para aves.</rule>
       <rule>Ambiente dulceacu&#xED;cola y marino; dulceacu&#xED;cola, marino y salobre; dulceacu&#xED;cola, marino, salobre y terrestre; dulceacu&#xED;cola, marino y terrestre; marino y salobre; marino, salobre y terrestre; marino y terrestre. Las coordenadas son v&#xE1;lidas cuando se ubican en continente o en mar.</rule>
