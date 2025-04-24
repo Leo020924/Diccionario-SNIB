@@ -243,6 +243,12 @@
       <campo>longitud</campo>
       <campo>paismapa</campo>
     </campos>
+    <syntaxRules>
+      <rule>regla sintaxis</rule>
+    </syntaxRules>
+    <infoRules>
+      <rule>regla info</rule>
+    </infoRules>
   </snibTerm>
   <snibTerm>
     <fieldName>Estado del mapa</fieldName>
