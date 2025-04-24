@@ -237,18 +237,19 @@
       <key>000004f34d007e5c2e396a153b264aaf</key>
       <key>000003bed399a8385e59baf7c371267f</key>
     </ejemplar>
+    <syntaxRules>
+      <rule>regla sintaxis</rule>
+      <rule>Es el Nombre del INEGI</rule>
+    </syntaxRules>
+    <infoRules>
+      <rule>regla info</rule>
+    </infoRules>
     <campos>
       <campo>region</campo>
       <campo>localidad</campo>
       <campo>longitud</campo>
       <campo>paismapa</campo>
     </campos>
-    <syntaxRules>
-      <rule>regla sintaxis</rule>
-    </syntaxRules>
-    <infoRules>
-      <rule>regla info</rule>
-    </infoRules>
   </snibTerm>
   <snibTerm>
     <fieldName>Estado del mapa</fieldName>
