@@ -456,6 +456,7 @@
     <datatype>smallint (600)</datatype>
     <dataRules>
       <rule>Ejemplo de Regla<subregla>Ejemplo de Subregla</subregla></rule>
+      <rule>Ejemplo de Regla 2<subregla>Ejemplo de Subregla 2</subregla><subregla>Ejemplo de Subregla 3</subregla></rule>
     </dataRules>
     <dataRules>
       <rule>El valor nulo significa que el ejemplar no tiene coordenadas geogr&#xE1;ficas; las coordenadas asociadas al ejemplar se ubican fuera del &#xE1;rea que cubre el modelo digital de elevaci&#xF3;n o, dicho modelo no tiene el dato de altitud.</rule>
