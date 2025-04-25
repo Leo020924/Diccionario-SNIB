@@ -455,8 +455,8 @@
     <description>Altitud donde se ubica la coordenada geogr&#xE1;fica, es obtenida del modelo de elevaci&#xF3;n ASTER GDEM2. </description>
     <datatype>smallint (600)</datatype>
     <dataRules>
-      <rule>El valor nulo significa que el ejemplar no tiene coordenadas geogr&#xE1;ficas; las coordenadas asociadas al ejemplar se ubican fuera del &#xE1;rea que cubre el modelo digital de elevaci&#xF3;n o, dicho modelo no tiene el dato de altitud.<subregla>Ejemplo</subregla></rule>
-      <rule>Ejemplo</rule>
+      <subrule>El valor nulo significa que el ejemplar no tiene coordenadas geogr&#xE1;ficas; las coordenadas asociadas al ejemplar se ubican fuera del &#xE1;rea que cubre el modelo digital de elevaci&#xF3;n o, dicho modelo no tiene el dato de altitud.<subregla>Ejemplo</subregla><subregla>Prueba de subregla</subregla></subrule>
+      <subrule>Ejemplo</subrule>
     </dataRules>
     <dataRules>
       <rule>El valor nulo significa que el ejemplar no tiene coordenadas geogr&#xE1;ficas; las coordenadas asociadas al ejemplar se ubican fuera del &#xE1;rea que cubre el modelo digital de elevaci&#xF3;n o, dicho modelo no tiene el dato de altitud.</rule>
@@ -471,10 +471,10 @@
       <key>aa2cc6d24d9c9544b875175fa0345a4a</key>
     </ejemplar>
     <infoRules>
-      <rule>Ejemplo</rule>
+      <subrule>Ejemplo</subrule>
     </infoRules>
     <syntaxRules>
-      <rule>Ejemplo</rule>
+      <subrule>Ejemplo</subrule>
     </syntaxRules>
     <campos>
       <campo>altitudmapa</campo>
