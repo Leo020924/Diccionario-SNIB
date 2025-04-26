@@ -455,7 +455,7 @@
     <description>Altitud donde se ubica la coordenada geogr&#xE1;fica, es obtenida del modelo de elevaci&#xF3;n ASTER GDEM2. </description>
     <datatype>smallint (600)</datatype>
     <dataRules>
-      <rule>Ejemplo de Regla<subregla>Ejemplo de Subregla</subregla></rule>
+      <rule>Ejemplo de Regla</rule>
       <rule>Ejemplo de Regla 2<subregla>Ejemplo de Subregla 2</subregla><subregla>Ejemplo de Subregla 3</subregla></rule>
     </dataRules>
     <dataRules>
