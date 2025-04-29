@@ -1165,6 +1165,7 @@
   <snibTerm>
     <fieldName>Especie prioritaria</fieldName>
     <fieldid>prioritaria</fieldid>
+    <orden>3</orden>
     <dwcField>Sin equivalencia</dwcField>
     <description>Especies utilizadas para representar a otras especies o aspectos significativos del ambiente para conseguir un objetivo determinado de conservaci&#xF3;n.</description>
     <datatype>varchar (100)</datatype>
@@ -1192,6 +1193,7 @@
   <snibTerm>
     <fieldName>Nivel de prioridad de la especie</fieldName>
     <fieldid>nivelprioridad</fieldid>
+    <orden>4</orden>
     <dwcField>Sin equivalencia</dwcField>
     <description>Nivel de prioridad asignado a la especie para su protecci&#xF3;n y conservaci&#xF3;n.</description>
     <datatype>enum</datatype>
@@ -1234,6 +1236,7 @@
   <snibTerm>
     <fieldName>Categor&#xED;a de riesgo seg&#xFA;n NOM-059-SEMARNAT </fieldName>
     <fieldid>nom059</fieldid>
+    <orden>1</orden>
     <dwcField>Sin equivalencia</dwcField>
     <description>Indica la categor&#xED;a de riesgo conforme a la NOM-059-SEMARNAT de la especie o la infraespecie.</description>
     <datatype>varchar (512)</datatype>
@@ -1259,6 +1262,7 @@
   <snibTerm>
     <fieldName>CITES </fieldName>
     <fieldid>cites</fieldid>
+    <orden>2</orden>
     <dwcField>Sin equivalencia</dwcField>
     <description>Indica el grado de protecci&#xF3;n contra el comercio ilegal conforme a la Convenci&#xF3;n sobre el Comercio Internacional de Especies Amenazadas de Fauna y Flora Silvestres.</description>
     <datatype>varchar(512)</datatype>
@@ -1291,6 +1295,7 @@
   <snibTerm>
     <fieldName>IUCN</fieldName>
     <fieldid>iucn</fieldid>
+    <orden>5</orden>
     <dwcField>Sin equivalencia</dwcField>
     <description>Indica el estado de conservaci&#xF3;n de la especie conforme a la lista roja de la Uni&#xF3;n Internacional para la Conservaci&#xF3;n de la Naturaleza (IUCN).</description>
     <datatype>varchar(1024)</datatype>
