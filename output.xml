@@ -1037,6 +1037,7 @@
   <snibTerm>
     <fieldName>Endemismo</fieldName>
     <fieldid>endemismo</fieldid>
+    <orden>2</orden>
     <dwcField>Sin equivalencia</dwcField>
     <description>Indica si el tax&#xF3;n tiene una distribuci&#xF3;n en M&#xE9;xico considerada como end&#xE9;mica, cuasiend&#xE9;mica o semiend&#xE9;mica, es decir, es originaria de un &#xE1;rea geogr&#xE1;fica limitada y solo est&#xE1; presente de manera natural en el pa&#xED;s.</description>
     <datatype>enum</datatype>
@@ -1057,6 +1058,7 @@
   <snibTerm>
     <fieldName>Tax&#xF3;n extinto</fieldName>
     <fieldid>taxonextinto</fieldid>
+    <orden>7</orden>
     <dwcField>Sin equivalencia</dwcField>
     <description>Indica si corresponde a un tax&#xF3;n (especie o grupo taxon&#xF3;mico superior como familia, orden, etc) cuya desaparici&#xF3;n se ha confirmado.</description>
     <datatype>enum</datatype>
@@ -1075,6 +1077,7 @@
   <snibTerm>
     <fieldName>Ambiente</fieldName>
     <fieldid>ambiente</fieldid>
+    <orden>1</orden>
     <dwcField>Sin equivalencia</dwcField>
     <description>Indica el ambiente del tax&#xF3;n.</description>
     <datatype>varchar (100)</datatype>
@@ -1094,6 +1097,7 @@
   <snibTerm>
     <fieldName>Nombre com&#xFA;n</fieldName>
     <fieldid>nombrecomun</fieldid>
+    <orden>5</orden>
     <dwcField>vernacularName</dwcField>
     <description>Nombres comunes reconocidos para el tax&#xF3;n en los cat&#xE1;logos de autoridades taxon&#xF3;micas de la CONABIO.</description>
     <datatype>text</datatype>
@@ -1144,6 +1148,7 @@
   <snibTerm>
     <fieldName>Forma de crecimiento</fieldName>
     <fieldid>formadecrecimiento</fieldid>
+    <orden>4</orden>
     <dwcField>Sin equivalencia</dwcField>
     <description>Forma o aspecto que presenta una planta en su etapa madura: hierba, &#xE1;rbol, arbusto y bejuco entre otros.</description>
     <datatype>varchar (100)</datatype>
@@ -1207,6 +1212,7 @@
   <snibTerm>
     <fieldName>Especie ex&#xF3;tica o ex&#xF3;tica invasora</fieldName>
     <fieldid>exoticainvasora</fieldid>
+    <orden>3</orden>
     <dwcField>establishmentMeans</dwcField>
     <description>Indica si una especie est&#xE1; catalogada como ex&#xF3;tica, ex&#xF3;tica invasora o criptog&#xE9;nica de M&#xE9;xico.</description>
     <datatype>varchar (50)</datatype>
@@ -1318,6 +1324,7 @@
   <snibTerm>
     <fieldName>Residencia de aves</fieldName>
     <fieldid>categoriaresidenciaaves</fieldid>
+    <orden>6</orden>
     <dwcField>Sin equivalencia</dwcField>
     <description>Indica el tipo de residencia de las especies de aves respecto al sitio y a la temporada del a&#xF1;o.</description>
     <datatype>varchar (100)</datatype>
