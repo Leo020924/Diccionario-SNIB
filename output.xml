@@ -1216,8 +1216,9 @@
       <key>0001928cc1319fbdf8a72647208b9c2f</key>
     </ejemplar>
     <campos>
-      <campo>generovalido</campo>
+      <campo>grupobio</campo>
       <campo>especievalida</campo>
+      <campo>autorvalido</campo>
       <campo>nom059</campo>
     </campos>
   </snibTerm>
