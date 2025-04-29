@@ -1210,14 +1210,16 @@
     </dataRules>
     <dataRules/>
     <dataRules/>
-    <campos>
-      <campo>nom059</campo>
-    </campos>
     <ejemplar>
       <key>0000989f645f650c036ee44a6e59192a</key>
       <key>00000e5fe746ec9e9f8b57474bb6baa0</key>
       <key>0001928cc1319fbdf8a72647208b9c2f</key>
     </ejemplar>
+    <campos>
+      <campo>genero</campo>
+      <campo>generovalido</campo>
+      <campo>especievalida</campo>
+    </campos>
   </snibTerm>
   <snibTerm>
     <fieldName>CITES </fieldName>
