@@ -1216,9 +1216,9 @@
       <key>0001928cc1319fbdf8a72647208b9c2f</key>
     </ejemplar>
     <campos>
-      <campo>genero</campo>
       <campo>generovalido</campo>
       <campo>especievalida</campo>
+      <campo>nom059</campo>
     </campos>
   </snibTerm>
   <snibTerm>
