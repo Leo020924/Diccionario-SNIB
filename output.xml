@@ -638,6 +638,7 @@
   <snibTerm>
     <fieldName>Grupo biol&#xF3;gico</fieldName>
     <fieldid>grupobio</fieldid>
+    <orden>1</orden>
     <dwcField>Sin equivalencia</dwcField>
     <description>Nombre utilizado para agrupar taxones con caracter&#xED;sticas biol&#xF3;gicas generales similares.</description>
     <datatype>varchar (50)</datatype>
@@ -649,6 +650,7 @@
   <snibTerm>
     <fieldName>Subgrupo biol&#xF3;gico</fieldName>
     <fieldid>subgrupobio</fieldid>
+    <orden>2</orden>
     <dwcField>Sin equivalencia</dwcField>
     <description>Nombre utilizado para agrupar taxones con caracter&#xED;sticas biol&#xF3;gicas similares. Puede incluir nombres gen&#xE9;ricos o el nombre com&#xFA;n de la especie y de los taxones en categor&#xED;as taxon&#xF3;micas superiores a la de especie.</description>
     <datatype>varchar (250)</datatype>
@@ -660,6 +662,7 @@
   <snibTerm>
     <fieldName>Reino</fieldName>
     <fieldid>reino</fieldid>
+    <orden>4</orden>
     <dwcField>Sin equivalencia</dwcField>
     <description>Nombre del reino en el que se ubica el ejemplar.</description>
     <datatype>varchar (50)</datatype>
@@ -695,6 +698,7 @@
   <snibTerm>
     <fieldName>Phylum o divisi&#xF3;n</fieldName>
     <fieldid>phylumdivision</fieldid>
+    <orden>5</orden>
     <dwcField>Sin equivalencia</dwcField>
     <description>Nombre del phylum o divisi&#xF3;n en el que se ubica el ejemplar.</description>
     <datatype>varchar (50)</datatype>
@@ -708,6 +712,7 @@
   <snibTerm>
     <fieldName>Clase</fieldName>
     <fieldid>clase</fieldid>
+    <orden>6</orden>
     <dwcField>Sin equivalencia</dwcField>
     <description>Nombre de la clase en la que se ubica el ejemplar.</description>
     <datatype>varchar (50)</datatype>
@@ -721,6 +726,7 @@
   <snibTerm>
     <fieldName>Orden</fieldName>
     <fieldid>orden</fieldid>
+    <orden>7</orden>
     <dwcField>Sin equivalencia</dwcField>
     <description>Nombre del orden en el que se ubica el ejemplar.</description>
     <datatype>varchar (50)</datatype>
@@ -734,6 +740,7 @@
   <snibTerm>
     <fieldName>Familia</fieldName>
     <fieldid>familia</fieldid>
+    <orden>8</orden>
     <dwcField>Sin equivalencia</dwcField>
     <description>Nombre de la familia en la que se ubica el tax&#xF3;n correspondiente al ejemplar.</description>
     <datatype>varchar (50)</datatype>
@@ -747,6 +754,7 @@
   <snibTerm>
     <fieldName>G&#xE9;nero</fieldName>
     <fieldid>genero</fieldid>
+    <orden>9</orden>
     <dwcField>Sin equivalencia</dwcField>
     <description>Nombre del g&#xE9;nero en el que se ubica el ejemplar.</description>
     <datatype>varchar (50)</datatype>
@@ -760,6 +768,7 @@
   <snibTerm>
     <fieldName>Especie</fieldName>
     <fieldid>especie</fieldid>
+     <orden>10</orden>
     <dwcField>scientificName</dwcField>
     <description>Nombre cient&#xED;fico de la especie (binomio, trinomio, etc.) al que se determin&#xF3; el ejemplar.</description>
     <datatype>varchar (100)</datatype>
@@ -771,6 +780,7 @@
   <snibTerm>
     <fieldName>Categor&#xED;a infraespec&#xED;fica </fieldName>
     <fieldid>categoriainfraespecie</fieldid>
+    <orden>11</orden>
     <dwcField>Incluido en taxonRank</dwcField>
     <description>Nombre de la categor&#xED;a taxon&#xF3;mica infraespec&#xED;fica.</description>
     <datatype>varchar (50).</datatype>
@@ -782,6 +792,7 @@
   <snibTerm>
     <fieldName>Categor&#xED;a subinfraespec&#xED;fica</fieldName>
     <fieldid>categoriainfraespecie2</fieldid>
+    <orden>12</orden>
     <dwcField>incluido en taxonRank</dwcField>
     <description>Nombre de la categor&#xED;a taxon&#xF3;mica subordinada a una categor&#xED;a infraespec&#xED;fica.</description>
     <datatype>varchar (50).</datatype>
@@ -793,6 +804,7 @@
   <snibTerm>
     <fieldName>Autoridad y a&#xF1;o de la especie</fieldName>
     <fieldid>autor</fieldid>
+    <orden>13</orden>
     <dwcField>scientificNameAuthorship</dwcField>
     <description>Autor(es) y a&#xF1;o de publicaci&#xF3;n de la descripci&#xF3;n de la especie (binomio, trinomio, etc.), dependiendo a que nivel se encuentre determinado el ejemplar.</description>
     <datatype>longtext</datatype>
@@ -806,6 +818,7 @@
   <snibTerm>
     <fieldName>Estatus taxon&#xF3;mico</fieldName>
     <fieldid>estatustax</fieldid>
+    <orden>14</orden>
     <dwcField>taxonomicStatus</dwcField>
     <description>Estatus taxon&#xF3;mico de la especie (binomio, trinomio, etc.) dependiendo a que nivel se encuentre determinado el ejemplar y de acuerdo con los cat&#xE1;logos de autoridades taxon&#xF3;micas de la CONABIO o de otras referencias especializadas.</description>
     <datatype>varchar (20)</datatype>
@@ -825,6 +838,7 @@
   <snibTerm>
     <fieldName>Referencia taxon&#xF3;mica</fieldName>
     <fieldid>reftax</fieldid>
+    <orden>15</orden>
     <dwcField>nameAccordingTo</dwcField>
     <description>Autor(es) y a&#xF1;o de publicaci&#xF3;n del cat&#xE1;logo de autoridad, listado, diccionario, o de otras referencias especializadas usadas por la CONABIO para validar la especie (binomio, trinomio, etc.).</description>
     <datatype>varchar (255)</datatype>
@@ -838,6 +852,7 @@
   <snibTerm>
     <fieldName>Reino v&#xE1;lido</fieldName>
     <fieldid>reinovalido</fieldid>
+    <orden>17</orden>
     <dwcField>kingdom</dwcField>
     <description>Nombre del Reino en el que se ubica el nombre v&#xE1;lido (aceptado) del ejemplar de acuerdo con los cat&#xE1;logos de autoridades taxon&#xF3;micas de la CONABIO o con otras referencias especializadas.</description>
     <datatype>varchar (50)</datatype>
@@ -853,6 +868,7 @@
   <snibTerm>
     <fieldName>Phylum o divisi&#xF3;n v&#xE1;lida</fieldName>
     <fieldid>phylumdivisionvalido</fieldid>
+    <orden>18</orden>
     <dwcField>phylum</dwcField>
     <description>Nombre de la divisi&#xF3;n o el phylum en el que se ubica el nombre v&#xE1;lido (aceptado) del ejemplar de acuerdo con los cat&#xE1;logos de autoridades taxon&#xF3;micas de la CONABIO o con otras referencias especializadas.</description>
     <datatype>varchar (50)</datatype>
@@ -869,6 +885,7 @@
   <snibTerm>
     <fieldName>Clase v&#xE1;lida</fieldName>
     <fieldid>clasevalida</fieldid>
+    <orden>19</orden>
     <dwcField>class</dwcField>
     <description>Nombre de la clase en la que se ubica el nombre v&#xE1;lido (aceptado) del ejemplar de acuerdo con los cat&#xE1;logos de autoridades taxon&#xF3;micas de la CONABIO o con otras referencias especializadas.</description>
     <datatype>varchar (50)</datatype>
@@ -885,6 +902,7 @@
   <snibTerm>
     <fieldName>Orden v&#xE1;lido</fieldName>
     <fieldid>ordenvalido</fieldid>
+    <orden>20</orden>
     <dwcField>order</dwcField>
     <description>Nombre del orden en el que se ubica el nombre v&#xE1;lido (aceptado) del tax&#xF3;n correspondiente al ejemplar de acuerdo con los cat&#xE1;logos de autoridades taxon&#xF3;micas de la CONABIO o con otras referencias especializadas.</description>
     <datatype>varchar (50)</datatype>
@@ -901,6 +919,7 @@
   <snibTerm>
     <fieldName>Familia v&#xE1;lida</fieldName>
     <fieldid>familiavalida</fieldid>
+    <orden>21</orden>
     <dwcField>family</dwcField>
     <description>Nombre de la familia en la que se ubica el nombre v&#xE1;lido (aceptado) del tax&#xF3;n v&#xE1;lido del ejemplar de acuerdo con los cat&#xE1;logos de autoridades taxon&#xF3;micas de la CONABIO o con otras referencias especializadas.</description>
     <datatype>varchar (50)</datatype>
@@ -917,6 +936,7 @@
   <snibTerm>
     <fieldName>G&#xE9;nero v&#xE1;lido</fieldName>
     <fieldid>generovalido</fieldid>
+    <orden>22</orden>
     <dwcField>genus</dwcField>
     <description>Nombre del g&#xE9;nero en el que se ubica el nombre v&#xE1;lido (aceptado) del tax&#xF3;n correspondiente al ejemplar de acuerdo con los cat&#xE1;logos de autoridades taxon&#xF3;micas de la CONABIO o con otras referencias especializadas.</description>
     <datatype>varchar (50)</datatype>
@@ -932,6 +952,7 @@
   <snibTerm>
     <fieldName>Especie v&#xE1;lida</fieldName>
     <fieldid>especievalida</fieldid>
+    <orden>23</orden>
     <dwcField>acceptedNameUsage</dwcField>
     <description>Nombre v&#xE1;lido (aceptado) de la especie (binomio, trinomio, etc.) de acuerdo con los cat&#xE1;logos de autoridades taxon&#xF3;micas de la CONABIO o con otras referencias especializadas.</description>
     <datatype>varchar (100)</datatype>
@@ -948,6 +969,7 @@
   <snibTerm>
     <fieldName>Categor&#xED;a infraespec&#xED;fica del nombre v&#xE1;lido</fieldName>
     <fieldid>categoriainfraespecievalida</fieldid>
+    <orden>24</orden>
     <dwcField>Sin equivalencia</dwcField>
     <description>Nombre de la categor&#xED;a taxon&#xF3;mica infraespec&#xED;fica del nombre v&#xE1;lido.</description>
     <datatype>varchar (50).</datatype>
@@ -959,6 +981,7 @@
   <snibTerm>
     <fieldName>Categor&#xED;a subinfraespec&#xED;fica del nombre v&#xE1;lido</fieldName>
     <fieldid>categoriainfraespecie2valida</fieldid>
+    <orden>25</orden>
     <dwcField>Sin equivalencia</dwcField>
     <description>Nombre de la categor&#xED;a taxon&#xF3;mica subinfraespec&#xED;fica del nombre v&#xE1;lido.</description>
     <datatype>varchar (50).</datatype>
@@ -970,6 +993,7 @@
   <snibTerm>
     <fieldName>Autoridad y a&#xF1;o del nombre v&#xE1;lido</fieldName>
     <fieldid>autorvalido</fieldid>
+    <orden>26</orden>
     <dwcField>scientificNameAuthorship</dwcField>
     <description>Nombre del autor o autores y a&#xF1;o de la descripci&#xF3;n de la especie (binomio, trinomio, etc.) v&#xE1;lida de acuerdo con los cat&#xE1;logos de autoridades taxon&#xF3;micas de la CONABIO o con otras referencias especializadas.</description>
     <datatype>mediumtext</datatype>
@@ -983,6 +1007,7 @@
   <snibTerm>
     <fieldName>Referencia taxon&#xF3;mica del nombre v&#xE1;lido</fieldName>
     <fieldid>reftaxvalido</fieldid>
+    <orden>27</orden>
     <dwcField>Sin equivalencia</dwcField>
     <description>Autor(es) y a&#xF1;o de publicaci&#xF3;n del cat&#xE1;logo de autoridad, listado o diccionario o de otras referencias especializadas usadas por la CONABIO que respaldan el nombre cient&#xED;fico v&#xE1;lido del tax&#xF3;n (especie).</description>
     <datatype>varchar (255)</datatype>
@@ -997,6 +1022,7 @@
   <snibTerm>
     <fieldName>Tax&#xF3;n validado</fieldName>
     <fieldid>taxonvalidado</fieldid>
+    <orden>28</orden>
     <dwcField>Sin equivalencia</dwcField>
     <description>Indica si el nombre al que se determin&#xF3; el ejemplar se pudo validar con los cat&#xE1;logos de autoridades taxon&#xF3;micas de la CONABIO o con otras referencias especializadas.</description>
     <datatype>varchar (2)</datatype>
@@ -1094,6 +1120,7 @@
   <snibTerm>
     <fieldName>Identificador del Nombre</fieldName>
     <fieldid>idnombrecat</fieldid>
+    <orden>3</orden>
     <dwcField>scientificNameID</dwcField>
     <description>Identificador del nombre del ejemplar en el cat&#xE1;logo de autoridades taxon&#xF3;micas de la CONABIO. Corresponde al identificador de la Especie (binomio, trinomio, etc.)</description>
     <datatype>varchar (50)</datatype>
@@ -1105,6 +1132,7 @@
   <snibTerm>
     <fieldName>Identificador del Nombre v&#xE1;lido</fieldName>
     <fieldid>idnombrecatvalido</fieldid>
+    <orden>16</orden>
     <dwcField>acceptedNameUsageID</dwcField>
     <description>Identificador del nombre v&#xE1;lido en el cat&#xE1;logo de autoridades taxon&#xF3;micas de la CONABIO.</description>
     <datatype>varchar (50)</datatype>
