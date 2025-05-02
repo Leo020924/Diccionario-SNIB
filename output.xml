@@ -1295,7 +1295,7 @@
   <snibTerm>
     <fieldName>IUCN</fieldName>
     <fieldid>iucn</fieldid>
-    <orden>5</orden>
+    <orden>6</orden>
     <dwcField>Sin equivalencia</dwcField>
     <description>Indica el estado de conservaci&#xF3;n de la especie conforme a la lista roja de la Uni&#xF3;n Internacional para la Conservaci&#xF3;n de la Naturaleza (IUCN).</description>
     <datatype>varchar(1024)</datatype>
