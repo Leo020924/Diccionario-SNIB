@@ -1795,4 +1795,30 @@
     </dataRules>
     <dataRules/>
   </snibTerm>
+   <snibTerm>
+    <fieldName>Cuenca</fieldName>
+    <fieldid>cuenca</fieldid>
+    <dwcField>Sin equivalencia</dwcField>
+    <description>Cuenca</description>
+    <datatype>varchar (7)</datatype>
+    <encoding>UTF-8</encoding>
+    <dataRules/>
+    <dataRules>
+      <rule>Se muestra con el formato aaaa-mm.</rule>
+    </dataRules>
+    <dataRules/>
+  </snibTerm>
+  <snibTerm>
+    <fieldName>Ecorregion </fieldName>
+    <fieldid>ecorregion </fieldid>
+    <dwcField>Sin equivalencia</dwcField>
+    <description>Ecorregion </description>
+    <datatype>varchar (7)</datatype>
+    <encoding>UTF-8</encoding>
+    <dataRules/>
+    <dataRules>
+      <rule>Se muestra con el formato aaaa-mm.</rule>
+    </dataRules>
+    <dataRules/>
+  </snibTerm>
 </snibDictionary>
