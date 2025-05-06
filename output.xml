@@ -14,7 +14,7 @@
     <dataRules/>
   </snibTerm>
   <snibTerm>
-    <fieldName>Regi&#xF3;n de recolecta u observaci&#xF3;n registrada para el ejemplar</fieldName>
+    <fieldName>Regi&#xF3;n de recolecta u observaci&#xF3;n</fieldName>
     <fieldid>region</fieldid>
     <dwcField>Sin equivalencia</dwcField>
     <description>Pa&#xED;s, estado y municipio o su divisi&#xF3;n pol&#xED;tica equivalente, registrados para el ejemplar por el recolector u observador.</description>
@@ -35,7 +35,7 @@
     </dataRules>
   </snibTerm>
   <snibTerm>
-    <fieldName>Localidad de recolecta u observaci&#xF3;n registrada para el ejemplar</fieldName>
+    <fieldName>Localidad de recolecta u observaci&#xF3;n</fieldName>
     <fieldid>localidad</fieldid>
     <dwcField>locality</dwcField>
     <description>Referencia geogr&#xE1;fica que describe la ubicaci&#xF3;n del lugar de recolecta u observaci&#xF3;n.</description>
@@ -99,7 +99,7 @@
     </dataRules>
   </snibTerm>
   <snibTerm>
-    <fieldName>Datum utilizado en la coordenada geogr&#xE1;fica</fieldName>
+    <fieldName>Datum de la coordenada geogr&#xE1;fica</fieldName>
     <fieldid>datum</fieldid>
     <dwcField>geodeticDatum</dwcField>
     <description>Sistema de referencia geod&#xE9;sico de las coordenadas geogr&#xE1;ficas del sitio de recolecta u observaci&#xF3;n del ejemplar.</description>
@@ -116,7 +116,7 @@
     <dataRules/>
   </snibTerm>
   <snibTerm>
-    <fieldName>Validaci&#xF3;n del ambiente</fieldName>
+    <fieldName>Validaci&#xF3;n de la ubicación geográfica de acuerdo con el ambiente del taxón</fieldName>
     <fieldid>validacionambiente</fieldid>
     <dwcField>Incluido en georeferenceVerificationStatus</dwcField>
     <description>Resultado de la comparaci&#xF3;n del ambiente conocido para el tax&#xF3;n asociado al ejemplar contra el ambiente de la ubicaci&#xF3;n de la coordenada del ejemplar.</description>
@@ -147,7 +147,7 @@
     </campos>
   </snibTerm>
   <snibTerm>
-    <fieldName>Validaci&#xF3;n de la ubicaci&#xF3;n geogr&#xE1;fica del ejemplar</fieldName>
+    <fieldName>Validaci&#xF3;n de la ubicaci&#xF3;n geogr&#xE1;fica de acuerdo con la división política</fieldName>
     <fieldid>geovalidacion</fieldid>
     <dwcField>Incluido en georeferenceVerificationStatus</dwcField>
     <description>Resultado de la validaci&#xF3;n geogr&#xE1;fica realizada por la CONABIO considerando la divisi&#xF3;n pol&#xED;tica, esta se realiza hasta en cuatro niveles pa&#xED;s/estado/municipio/localidad.</description>
