@@ -147,7 +147,7 @@
     </campos>
   </snibTerm>
   <snibTerm>
-    <fieldName>Validaci&#xF3;n de la ubicaci&#xF3;n geogr&#xE1;fica de acuerdo con la división política</fieldName>
+    <fieldName>Validación de la ubicación geográfica del ejemplar</fieldName>
     <fieldid>geovalidacion</fieldid>
     <dwcField>Incluido en georeferenceVerificationStatus</dwcField>
     <description>Resultado de la validaci&#xF3;n geogr&#xE1;fica realizada por la CONABIO considerando la divisi&#xF3;n pol&#xED;tica, esta se realiza hasta en cuatro niveles pa&#xED;s/estado/municipio/localidad.</description>
