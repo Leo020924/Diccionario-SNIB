@@ -1389,7 +1389,7 @@
     <dataRules/>
   </snibTerm>
   <snibTerm>
-    <fieldName>Pa&#xED;s donde se localiza la colecci&#xF3;n</fieldName>
+    <fieldName>País de la colección</fieldName>
     <fieldid>paiscoleccion</fieldid>
     <dwcField>Sin equivalencia</dwcField>
     <description>Pa&#xED;s donde se localiza la colecci&#xF3;n o la instituci&#xF3;n que avala el registro observado o reportado.</description>
