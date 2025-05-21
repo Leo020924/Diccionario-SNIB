@@ -116,7 +116,7 @@
     <dataRules/>
   </snibTerm>
   <snibTerm>
-    <fieldName>Validaci&#xF3;n de la ubicación geográfica de acuerdo con el ambiente del taxón</fieldName>
+    <fieldName>Validación de la ubicación utilizando el ambiente del taxón </fieldName>
     <fieldid>validacionambiente</fieldid>
     <dwcField>Incluido en georeferenceVerificationStatus</dwcField>
     <description>Resultado de la comparaci&#xF3;n del ambiente conocido para el tax&#xF3;n asociado al ejemplar contra el ambiente de la ubicaci&#xF3;n de la coordenada del ejemplar.</description>
