@@ -99,7 +99,7 @@
     </dataRules>
   </snibTerm>
   <snibTerm>
-    <fieldName>Datum homologado de la coordenada geográfica</fieldName>
+    <fieldName>Datum homologado de la coordenada geogr&#xE1;fica</fieldName>
     <fieldid>datum</fieldid>
     <dwcField>geodeticDatum</dwcField>
     <description>Sistema de referencia geod&#xE9;sico de las coordenadas geogr&#xE1;ficas del sitio de recolecta u observaci&#xF3;n del ejemplar.</description>
@@ -116,7 +116,7 @@
     <dataRules/>
   </snibTerm>
   <snibTerm>
-    <fieldName>Validación de la ubicación utilizando el ambiente del taxón </fieldName>
+    <fieldName>Validaci&#xF3;n de la ubicaci&#xF3;n utilizando el ambiente del tax&#xF3;n </fieldName>
     <fieldid>validacionambiente</fieldid>
     <dwcField>Incluido en georeferenceVerificationStatus</dwcField>
     <description>Resultado de la comparaci&#xF3;n del ambiente conocido para el tax&#xF3;n asociado al ejemplar contra el ambiente de la ubicaci&#xF3;n de la coordenada del ejemplar.</description>
@@ -147,7 +147,7 @@
     </campos>
   </snibTerm>
   <snibTerm>
-    <fieldName>Validación de la ubicación geográfica del ejemplar</fieldName>
+    <fieldName>Validaci&#xF3;n de la ubicaci&#xF3;n geogr&#xE1;fica del ejemplar</fieldName>
     <fieldid>geovalidacion</fieldid>
     <dwcField>Incluido en georeferenceVerificationStatus</dwcField>
     <description>Resultado de la validaci&#xF3;n geogr&#xE1;fica realizada por la CONABIO considerando la divisi&#xF3;n pol&#xED;tica, esta se realiza hasta en cuatro niveles pa&#xED;s/estado/municipio/localidad.</description>
@@ -204,7 +204,7 @@
     <dataRules/>
   </snibTerm>
   <snibTerm>
-    <fieldName>País asignado</fieldName>
+    <fieldName>Pa&#xED;s asignado</fieldName>
     <fieldid>paismapa</fieldid>
     <dwcField>Incluido en country</dwcField>
     <description>Nombre del pa&#xED;s donde se ubica la coordenada geogr&#xE1;fica registrada para el ejemplar, respecto a los mapas de divisi&#xF3;n pol&#xED;tica -incluyendo la zona econ&#xF3;mica exclusiva- utilizados para la validaci&#xF3;n geogr&#xE1;fica realizada por la CONABIO.</description>
@@ -298,7 +298,7 @@
     </campos>
   </snibTerm>
   <snibTerm>
-    <fieldName>Estado asignado a la franja marina de 24 millas náuticas</fieldName>
+    <fieldName>Estado asignado a la franja marina de 24 millas n&#xE1;uticas</fieldName>
     <fieldid>mt24nombreestadomapa</fieldid>
     <dwcField>Sin equivalencia</dwcField>
     <description>Nombre del estado costero o divisi&#xF3;n pol&#xED;tica equivalente, frente al cual se extiende la franja de 24 millas n&#xE1;uticas (12 de mar territorial y 12 de la zona contigua), y que se asigna como referencia de ubicaci&#xF3;n de la coordenada geogr&#xE1;fica registrada para el ejemplar.</description>
@@ -312,7 +312,7 @@
     <dataRules/>
   </snibTerm>
   <snibTerm>
-    <fieldName>Clave estatal asignada a la franja marina de 24 millas náuticas</fieldName>
+    <fieldName>Clave estatal asignada a la franja marina de 24 millas n&#xE1;uticas</fieldName>
     <fieldid>mt24claveestadomapa</fieldid>
     <dwcField>Sin equivalencia</dwcField>
     <description>Clave del estado costero o divisi&#xF3;n pol&#xED;tica equivalente, frente al cual se extiende la franja de 24 millas n&#xE1;uticas (12 de mar territorial y 12 de la zona contigua), y que se asigna como referencia de ubicaci&#xF3;n de la coordenada geogr&#xE1;fica registrada para el ejemplar.</description>
@@ -396,7 +396,7 @@
     </campos>
   </snibTerm>
   <snibTerm>
-    <fieldName>Municipio asignado a la franja marina de 24 millas náuticas</fieldName>
+    <fieldName>Municipio asignado a la franja marina de 24 millas n&#xE1;uticas</fieldName>
     <fieldid>mt24nombremunicipiomapa</fieldid>
     <dwcField>Sin equivalencia</dwcField>
     <description>Nombre del municipio o divisi&#xF3;n pol&#xED;tica equivalente frente al cual se extiende la franja de 24 millas n&#xE1;uticas (12 de mar territorial y 12 de la zona contigua), y que se asigna como referencia de ubicaci&#xF3;n de la coordenada geogr&#xE1;fica registrada para el ejemplar.</description>
@@ -409,7 +409,7 @@
     <dataRules/>
   </snibTerm>
   <snibTerm>
-    <fieldName>Clave municipal asignada a la franja marina de 24 millas náuticas</fieldName>
+    <fieldName>Clave municipal asignada a la franja marina de 24 millas n&#xE1;uticas</fieldName>
     <fieldid>mt24clavemunicipiomapa</fieldid>
     <dwcField>Sin equivalencia</dwcField>
     <description>Clave del municipio o divisi&#xF3;n pol&#xED;tica equivalente frente al cual se extiende la franja de 24 millas n&#xE1;uticas (12 de mar territorial y 12 de la zona contigua), y que se asigna como referencia de ubicaci&#xF3;n de la coordenada geogr&#xE1;fica registrada para el ejemplar.</description>
@@ -430,7 +430,7 @@
     </campos>
   </snibTerm>
   <snibTerm>
-    <fieldName>Incertidumbre geográfica</fieldName>
+    <fieldName>Incertidumbre geogr&#xE1;fica</fieldName>
     <fieldid>incertidumbrexy</fieldid>
     <dwcField>coordinateUncertaintyInMeters</dwcField>
     <description>Valor de incertidumbre de las coordenadas geogr&#xE1;ficas.</description>
@@ -474,7 +474,9 @@
       <key>aa2cc6d24d9c9544b875175fa0345a4a</key>
     </ejemplar>
     <campos>
+      <campo>region</campo>
       <campo>altitudmapa</campo>
+      <campo>usvserieI</campo>
     </campos>
   </snibTerm>
   <snibTerm>
@@ -768,7 +770,7 @@
   <snibTerm>
     <fieldName>Especie</fieldName>
     <fieldid>especie</fieldid>
-     <orden>10</orden>
+    <orden>10</orden>
     <dwcField>scientificName</dwcField>
     <description>Nombre cient&#xED;fico de la especie (binomio, trinomio, etc.) al que se determin&#xF3; el ejemplar.</description>
     <datatype>varchar (100)</datatype>
@@ -1389,7 +1391,7 @@
     <dataRules/>
   </snibTerm>
   <snibTerm>
-    <fieldName>País de la colección</fieldName>
+    <fieldName>Pa&#xED;s de la colecci&#xF3;n</fieldName>
     <fieldid>paiscoleccion</fieldid>
     <dwcField>Sin equivalencia</dwcField>
     <description>Pa&#xED;s donde se localiza la colecci&#xF3;n o la instituci&#xF3;n que avala el registro observado o reportado.</description>
@@ -1795,7 +1797,7 @@
     </dataRules>
     <dataRules/>
   </snibTerm>
-   <snibTerm>
+  <snibTerm>
     <fieldName>Cuenca</fieldName>
     <fieldid>cuenca</fieldid>
     <dwcField>Sin equivalencia</dwcField>
