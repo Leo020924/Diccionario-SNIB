@@ -99,7 +99,7 @@
     </dataRules>
   </snibTerm>
   <snibTerm>
-    <fieldName>Datum de la coordenada geogr&#xE1;fica</fieldName>
+    <fieldName>Datum homologado de la coordenada geográfica</fieldName>
     <fieldid>datum</fieldid>
     <dwcField>geodeticDatum</dwcField>
     <description>Sistema de referencia geod&#xE9;sico de las coordenadas geogr&#xE1;ficas del sitio de recolecta u observaci&#xF3;n del ejemplar.</description>
@@ -430,7 +430,7 @@
     </campos>
   </snibTerm>
   <snibTerm>
-    <fieldName>Incertidumbre de las coordenadas geogr&#xE1;ficas</fieldName>
+    <fieldName>Incertidumbre geográfica</fieldName>
     <fieldid>incertidumbrexy</fieldid>
     <dwcField>coordinateUncertaintyInMeters</dwcField>
     <description>Valor de incertidumbre de las coordenadas geogr&#xE1;ficas.</description>
