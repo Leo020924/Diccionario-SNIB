@@ -474,9 +474,9 @@
       <key>aa2cc6d24d9c9544b875175fa0345a4a</key>
     </ejemplar>
     <campos>
-      <campo>localidad</campo>
-      <campo>longitud</campo>
-      <campo>latitud</campo>
+      <campo>datum</campo>
+      <campo>paismapa</campo>
+      <campo>endemismo</campo>
     </campos>
   </snibTerm>
   <snibTerm>
