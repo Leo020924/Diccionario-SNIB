@@ -1419,7 +1419,7 @@
     <dataRules/>
   </snibTerm>
   <snibTerm>
-    <fieldName>N&#xFA;mero de recolecta</fieldName>
+    <fieldName>N&#xFA;mero de la recolecta</fieldName>
     <fieldid>numcolecta</fieldid>
     <dwcField>recordNumber</dwcField>
     <description>Identificador asignado por el recolector u observador para cada evento de recolecta u observaci&#xF3;n.</description>
@@ -1562,7 +1562,7 @@
     <dataRules/>
   </snibTerm>
   <snibTerm>
-    <fieldName>A&#xF1;o de recolecta</fieldName>
+    <fieldName>A&#xF1;o de la recolecta</fieldName>
     <fieldid>aniocolecta</fieldid>
     <dwcField>year</dwcField>
     <description>Indica el a&#xF1;o del evento de recolecta u observaci&#xF3;n del ejemplar.</description>
@@ -1577,7 +1577,7 @@
     <dataRules/>
   </snibTerm>
   <snibTerm>
-    <fieldName>Mes de recolecta</fieldName>
+    <fieldName>Mes de la recolecta</fieldName>
     <fieldid>mescolecta</fieldid>
     <dwcField>month</dwcField>
     <description>Indica el mes del evento de recolecta u observaci&#xF3;n del ejemplar.</description>
@@ -1592,7 +1592,7 @@
     <dataRules/>
   </snibTerm>
   <snibTerm>
-    <fieldName>D&#xED;a de recolecta</fieldName>
+    <fieldName>D&#xED;a de la recolecta</fieldName>
     <fieldid>diacolecta</fieldid>
     <dwcField>day</dwcField>
     <description>Indica el d&#xED;a del evento de recolecta u observaci&#xF3;n del ejemplar.</description>
@@ -1607,7 +1607,7 @@
     <dataRules/>
   </snibTerm>
   <snibTerm>
-    <fieldName>Fecha de recolecta</fieldName>
+    <fieldName>Fecha de la recolecta</fieldName>
     <fieldid>fechacolecta</fieldid>
     <dwcField>eventDate</dwcField>
     <description>Es la fecha del evento de recolecta u observaci&#xF3;n del ejemplar.</description>
