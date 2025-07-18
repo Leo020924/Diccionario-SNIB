@@ -227,6 +227,9 @@
     <description>Nombre del estado o divisi&#xF3;n pol&#xED;tica equivalente, en la que el ejemplar fue recolectado u observado.</description>
     <datatype>varchar (55)</datatype>
     <encoding>UTF-8</encoding>
+    <notes>
+      <note>Ejemplo de nota</note>
+    </notes>
     <dataRules>
       <rule>El valor vac&#xED;o significa que el dato no fue proporcionado en la base de datos original.</rule>
     </dataRules>
